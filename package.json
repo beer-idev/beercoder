@@ -1,21 +1,45 @@
 {
-  "name": "port-beer-idev-new",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "autoprefixer": "10.4.14",
-    "eslint": "8.42.0",
-    "eslint-config-next": "13.4.4",
-    "next": "13.4.4",
-    "postcss": "8.4.24",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2"
-  }
+    "name": "port-beer-idev-new",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@fontsource/poppins": "^5.0.2",
+        "aos": "^2.3.4",
+        "autoprefixer": "10.4.14",
+        "axios": "^1.4.0",
+        "daisyui": "^4.6.0",
+        "eslint": "8.42.0",
+        "eslint-config-next": "13.4.4",
+        "framer-motion": "^10.12.16",
+        "js-file-download": "^0.4.12",
+        "next": "13.4.4",
+        "next-seo": "^6.0.0",
+        "next-themes": "^0.2.1",
+        "postcss": "8.4.24",
+        "preact": "^10.15.1",
+        "react": "18.2.0",
+        "react-animated-cursor": "^2.7.0",
+        "react-dom": "18.2.0",
+        "react-icons": "^4.9.0",
+        "react-intersection-observer": "^9.5.3",
+        "react-scroll": "^1.9.0",
+        "react-simple-typewriter": "^5.0.1",
+        "react-spinners": "^0.13.8",
+        "react-tsparticles": "^2.10.1",
+        "smoothscroll-polyfill": "^0.4.4",
+        "tailwindcss": "3.3.2",
+        "three": "^0.153.0",
+        "tsparticles": "^2.10.1",
+        "use-local-storage": "^3.0.0",
+        "web-vitals": "^3.3.2"
+    },
+    "devDependencies": {
+        "@next/bundle-analyzer": "^13.4.4"
+    }
 }
